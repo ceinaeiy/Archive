@@ -1,0 +1,36 @@
+h1 {
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.kotak {
+  padding: 50px;
+  width: 100px;
+  color: #fff;
+  margin: 10px;
+  background: orange;
+}
+
+#kotak {
+  width: 400px;
+  color: #fff;
+  background: blue;
+  padding: 50px;
+}
+
+.kotak2 {
+  padding: 50px;
+  width: 150px;
+  color: #fff;
+  margin: 10px;
+  background: orange;
+} 
+
+.kotak3 {
+  padding: 50px;
+  width: 200px;
+  color: #fff;
+  margin: 10px;
+  background: orange;
+} 
